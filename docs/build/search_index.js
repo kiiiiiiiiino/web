@@ -1,3 +1,3 @@
 var documenterSearchIndex = {"docs":
-[{"location":"#Hello-world!","page":"Hello world!","title":"Hello world!","text":"","category":"section"},{"location":"","page":"Hello world!","title":"Hello world!","text":"Hello World!","category":"page"}]
+[{"location":"#おテスト","page":"おテスト","title":"おテスト","text":"","category":"section"},{"location":"","page":"おテスト","title":"おテスト","text":"うんち","category":"page"}]
 }
